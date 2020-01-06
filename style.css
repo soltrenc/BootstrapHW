@@ -1,0 +1,184 @@
+header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    width: 100%;
+}
+
+nav {
+    float:right;
+}
+
+h1 {
+    color:  #4aaaa5;
+}
+
+.text-block {
+    border: solid;
+    text-align: center;
+    color: #4aaaa5;
+    font-size: 20px;
+}
+
+.about  {
+
+    font-weight: 700px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom-width: 30px;
+    border-bottom: 50px;
+    color:  #4aaaa5;
+    font-size: 36px;
+
+}
+
+h3  {
+
+    font-weight: 700px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom-width: 30px;
+    border-bottom-color: black;
+    color:  #4aaaa5;
+    font-size: 36px;
+}
+
+h4  {
+
+    font-weight: 700px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom-width: 30px;
+    border-bottom-color: black;
+    color:  #4aaaa5;
+    font-size: 36px;
+}
+
+a { 
+    float: right;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: #4aaaa5;
+    background-color: teal;
+
+}
+
+a:focus {
+    color: black;
+}
+
+footer {
+    width: 100%;
+    background-color: #666666;
+    text-align: center;
+    border-top: 5px solid #4aaaa5;
+    position: absolute;
+    bottom: 0;
+}
+
+body {
+    
+    border-color: #dddddd;
+    text-emphasis-color: #777777;
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/white-waves.png")
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    margin: 20px;
+    padding: 20px;
+    float: left;
+}
+
+form {
+    width: 100%;
+    display: grid;
+}
+
+#message {
+    padding: 20px;
+
+}
+
+.main {
+    width: 960px;
+    margin: 0 auto;
+    height: 100%;
+
+}
+
+.submit-btn {
+    color:  #4aaaa5;
+    width: 100px;
+}
+
+.hangman {
+    float: left;
+    
+}
+
+.hangmantext {
+    
+    display: inline-flex;
+    border: solid;
+    text-align: center;
+    color: #4aaaa5;
+    font-size: 20px;
+}
+
+.RPG {
+    float: left;
+}
+
+.rpgtext {
+
+    display: inline-flex;
+    text-align: center;
+    border: solid;
+    color: #4aaaa5;
+    font-size: 20px;
+}
+
+.Trivia {
+    float: left;
+}
+
+.triviatext {
+   
+    display: inline-flex;
+    text-align: center;
+    border: solid;
+    color: #4aaaa5;
+    font-size: 20px;
+    
+}
+
+.rutgers {
+    float: left;
+}
+
+.infowidget {
+    display: inline-flex;
+    text-align: center;
+    border: solid;
+    background-color: #4aaaa5;
+    font-size: 20px;
+}
+
+.rps {
+    float: left;
+}
+
+.rpstext {
+    display: inline-flex;
+    text-align: center;
+    border: solid;
+    background-color: #4aaaa5;
+    font-size: 20px;
+}
